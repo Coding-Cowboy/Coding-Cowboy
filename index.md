@@ -7,6 +7,7 @@
 ###2021 Global Gam Jam
 This was a 2 day Game jam that was a rapid development of a Rogue-Like Game that tried to fit the theme of Lost from Home
 Link: [Global Game Jam](https://github.com/Coding-Cowboy/GlobalGameJam2021)
+
 You can use the [editor on GitHub](https://github.com/Coding-Cowboy/Coding-Cowboy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
