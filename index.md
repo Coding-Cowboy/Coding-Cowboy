@@ -1,10 +1,10 @@
 ## Welcome to Garrett Wagner's Resume and Project Highlight
 
-##Resume
+## Resume
 
-##Project Highlights
+## Project Highlights
 
-###2021 Global Gam Jam
+### 2021 Global Gam Jam
 This was a 2 day Game jam that was a rapid development of a Rogue-Like Game that tried to fit the theme of Lost from Home
 Link: [Global Game Jam](https://github.com/Coding-Cowboy/GlobalGameJam2021)
 
