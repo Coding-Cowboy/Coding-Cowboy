@@ -6,7 +6,16 @@
 
 ### 2021 Global Gam Jam
 This was a 2 day Game jam that was a rapid development of a Rogue-Like Game that tried to fit the theme of Lost from Home
-Link: [Global Game Jam](https://github.com/Coding-Cowboy/GlobalGameJam2021)
+
+**Link: [Global Game Jam](https://github.com/Coding-Cowboy/GlobalGameJam2021)**
+
+### Senior Capstone Project
+This was athe Church Management Website that my team worked on for our Mock Customer. Worked on Frontend work for the majority of this project.
+
+**Link: [Frontend Website](https://github.com/tylerdavidjoy/SEV-Project-Vue)**
+
+**Link: [Backend Website](https://github.com/tylerdavidjoy/SEV-Project-Node)**
+
 
 You can use the [editor on GitHub](https://github.com/Coding-Cowboy/Coding-Cowboy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
