@@ -19,8 +19,8 @@ This was athe Church Management Website that my team worked on for our Mock Cust
 ### Game Projects for class
 These two games were from my Team Game class in which we were tasked with two seperate projects that used Unity and Unreal for development. I worked on a team with 4-5 artists and 1 other programmer.
 
-**Link1
-**Link2
+**Link: [Unreal Racing Game](https://github.com/logan-giese/teamgame-bitter-wings)
+**Link: [Unity Shooting Gallery](https://github.com/logan-giese/teamgame-searching-safari)
 
 
 ##Current Personal Project
